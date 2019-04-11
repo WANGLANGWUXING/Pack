@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  stdafx.cpp
+  dllmain.cpp
+  stub.cpp
+c:\users\wuxin\documents\15pb\project\写壳\壳项目1.添加区段2.加密3.运行4.花5.密码6.重定位\stub\stub.cpp(233): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\wuxin\documents\15pb\project\写壳\壳项目1.添加区段2.加密3.运行4.花5.密码6.重定位\stub\stub.cpp(460): warning C4733: 内联 asm 分配到“FS:0”: 处理程序未注册为安全处理程序
+c:\users\wuxin\documents\15pb\project\写壳\壳项目1.添加区段2.加密3.运行4.花5.密码6.重定位\stub\stub.cpp(470): warning C4733: 内联 asm 分配到“FS:0”: 处理程序未注册为安全处理程序
+    正在创建库 ..\bin\stub.lib 和对象 ..\bin\stub.exp
+stub.obj : warning LNK4254: 节“.data”(C0000040)合并到具有不同特性的“.text”(60000020)
+  stub.vcxproj -> C:\Users\wuxin\Documents\15PB\project\写壳\壳项目1.添加区段2.加密3.运行4.花5.密码6.重定位\stub\..\bin\stub.dll
+  stub.vcxproj -> ..\bin\stub.pdb (Full PDB)

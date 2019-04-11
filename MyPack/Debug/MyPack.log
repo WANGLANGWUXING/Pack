@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  stdafx.cpp
+  MyPack.cpp
+  MyPack.vcxproj -> C:\Users\wuxin\Documents\15PB\project\写壳\壳项目1.添加区段2.加密3.运行4.花5.密码6.重定位\MyPack\..\bin\MyPack.exe
+  MyPack.vcxproj -> ..\bin\MyPack.pdb (Full PDB)
